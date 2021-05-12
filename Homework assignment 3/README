@@ -1,0 +1,9 @@
+A library of functions consisting of:
+intRange: Using Recursion, the function outputs an array of all whole numbers between the inputted range.
+positiveRanges: Using Recursion, the function outputs an array of all whole numbers from 1 to the number if the number is greater than 0.
+threshold: Using Recursion, the function outputs an array of numbers that are greater than an inputted threshold value
+insert: Using Recursion, the function outputs an array of numbers after adding an inputted number into it and sorting the resulting array.
+insertionSort: Sorts a given array using Recursion.
+archSpiral: Using Recursion and the Turtle library, the function generates an Archimedean spiral based on an inputted length, increment in radius, and starting angle and number of rotations.
+logSpiral: Using Recursion and the Turtle library, the function generates an Logarithmic spiral based on an inputted length, percent increment in radius, and starting angle and number of rotations.
+ 
