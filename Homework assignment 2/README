@@ -1,0 +1,7 @@
+Created a library of functions:
+rpsComputerCheat: A biased simulation of Rock, Paper, Scissors between the player and computer where the computer always wins.
+rpsComputerRock: A biased simulation of Rock, Paper, Scissors between the player and computer where the computer always chooses Rock.
+rps: An unbiased simulation of Rock, Paper, Scissors between a player and computer.
+FizzBuzz: A function that returns different outputs based on if the number inputted is divisible by 3 or 5 or both.
+deposit: A function that allows the user to deposit money into an account represented by an array.
+withdraw: A function that allows the user to withdraw money from their account represented by an array.
