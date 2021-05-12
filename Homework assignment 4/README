@@ -1,0 +1,7 @@
+Created a library of functions using inline ternary operators, map, reduce, filter, and lambda:
+positiveRanges: The function outputs an array of all whole numbers from 1 to the number if the number is greater than 0.
+threshold: The function outputs an array of numbers that are greater than an inputted threshold value
+halveEvens: Outputs an array of all the even numbers only after halving them from an inputted array.
+highValueAccounts: Outputs the high value accounts with money above a certain threshold from an inputted array of arrays.
+addMonthlyInterest: Given a collection of accounts, it outputs an array of accounts with the monthly interest added to the principal amount.
+convertCS31Accounts: Inverts the elements of the account from an array of accounts.
