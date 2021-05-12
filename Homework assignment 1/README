@@ -1,1 +1,2 @@
-I created a library of functions in Hw1.py to calculate quantitative statisitical quantities of data including arithmetric and geometric means, variance and standard deviation.
+Hw1.py consists of a library of functions to calculate quantitative statisitical quantities of data including arithmetric and geometric means, variance and standard deviation.
+In pico2.txt, we coded an algorithm written in the picobot language to navigate any 2D plane in the four cardinal directions.
