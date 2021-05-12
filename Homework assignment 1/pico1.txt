@@ -1,0 +1,23 @@
+                                #Assignment 1
+                            #Picobot problem 1 (rectangular world)
+                            #Name: Avnish Sengupta
+
+0 *X** -> E 0
+
+0 XEX* -> N 1
+
+1 X*X* -> W 1
+
+1 XXWX -> N 0
+
+0 NE*X -> X 2
+
+1 N**X -> X 2
+
+2 **X* -> W 2
+
+2 **W* -> S 3
+
+3 *X** -> E 3
+
+3 *E** -> X 2
